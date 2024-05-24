@@ -2,7 +2,7 @@
   "name": "react-signos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.devup.com.br/react/baralho-de-signos/",
+  "homepage": "https://react-signos.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
